@@ -187,7 +187,7 @@ def main():
 
         # Save HTML in the same folder as the script
         script_dir = Path(__file__).parent
-        output_file = script_dir / 'visualizacao_precos_eletricidade.html'
+        output_file = script_dir / 'index.html'
         fig.write_html(
             output_file,
             config={'scrollZoom': True},
