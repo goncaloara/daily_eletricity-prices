@@ -4,10 +4,8 @@ This project provides daily-updated interactive visualizations of electricity pr
 
 The project includes:
 
-- Daily data collection from the [OMIE GitHub repository](https://github.com/),
+- Daily data collection from the https://github.com/acruzgarcia/OMIEData,
 - Automatic data processing and generation of interactive visualizations,
-- Scheduled daily execution via Windows Task Scheduler,
-- Automatic push of updates to the GitHub repository and deployment via GitHub Pages.
+- Automatic push of updates to the GitHub repository.
 
-  
-You can access the daily-updated visualization here: https://goncaloara.github.io/daily_eletricity-prices/
+  You can access the daily-updated visualization here: https://goncaloara.github.io/daily_eletricity-prices/
