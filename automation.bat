@@ -12,6 +12,7 @@ python -m pip install --upgrade OMIEData
 python script.py
 
 :: Git commands to push updates
+git pull origin main
 git add .
 git commit -m "Automated daily update at 22h"
 git push origin main
